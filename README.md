@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Images/Delegate-Poster.png" width="100%">
+</p>
+
+
+
 # 🚀 Delegate Notification OOP
 
 A simple C# Console Application that demonstrates the use of:
